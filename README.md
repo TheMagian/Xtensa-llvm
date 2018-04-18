@@ -18,4 +18,5 @@ No hardware floating-point instructions (only FP library functions).
 For full version ask
 
 Andrei Safronov   andrei@kudeyar.com
+
 Alexey Shistko    alexey@kudeyar.com
